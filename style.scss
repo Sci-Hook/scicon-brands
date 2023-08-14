@@ -1,0 +1,590 @@
+@import "variables";
+
+@font-face {
+  font-family: '#{$icomoon-font-family}';
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?vmzbxb');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?vmzbxb#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?vmzbxb') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?vmzbxb') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?vmzbxb##{$icomoon-font-family}') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: '#{$icomoon-font-family}' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.scicon-apple-inc {
+  &:before {
+    content: $scicon-apple-inc; 
+  }
+}
+.scicon-arduino {
+  &:before {
+    content: $scicon-arduino; 
+  }
+}
+.scicon-arduino-wordmark {
+  &:before {
+    content: $scicon-arduino-wordmark; 
+  }
+}
+.scicon-c-lang {
+  &:before {
+    content: $scicon-c-lang; 
+  }
+}
+.scicon-c-lang-alt {
+  &:before {
+    content: $scicon-c-lang-alt; 
+  }
+}
+.scicon-cpp-lang {
+  &:before {
+    content: $scicon-cpp-lang; 
+  }
+}
+.scicon-c-sharp {
+  &:before {
+    content: $scicon-c-sharp; 
+  }
+}
+.scicon-css {
+  &:before {
+    content: $scicon-css; 
+  }
+}
+.scicon-css-wordmark {
+  &:before {
+    content: $scicon-css-wordmark; 
+  }
+}
+.scicon-discord {
+  &:before {
+    content: $scicon-discord; 
+  }
+}
+.scicon-discord-text {
+  &:before {
+    content: $scicon-discord-text; 
+  }
+}
+.scicon-discord-wordmark {
+  &:before {
+    content: $scicon-discord-wordmark; 
+  }
+}
+.scicon-esa {
+  &:before {
+    content: $scicon-esa; 
+  }
+}
+.scicon-esa-text {
+  &:before {
+    content: $scicon-esa-text; 
+  }
+}
+.scicon-esa-wordmark {
+  &:before {
+    content: $scicon-esa-wordmark; 
+  }
+}
+.scicon-facebook {
+  &:before {
+    content: $scicon-facebook; 
+  }
+}
+.scicon-facebook-f {
+  &:before {
+    content: $scicon-facebook-f; 
+  }
+}
+.scicon-fortran {
+  &:before {
+    content: $scicon-fortran; 
+  }
+}
+.scicon-f-sharp {
+  &:before {
+    content: $scicon-f-sharp; 
+  }
+}
+.scicon-github {
+  &:before {
+    content: $scicon-github; 
+  }
+}
+.scicon-github-text {
+  &:before {
+    content: $scicon-github-text; 
+  }
+}
+.scicon-gitlab {
+  &:before {
+    content: $scicon-gitlab; 
+  }
+}
+.scicon-gitlab-text {
+  &:before {
+    content: $scicon-gitlab-text; 
+  }
+}
+.scicon-gitlab-wordmark {
+  &:before {
+    content: $scicon-gitlab-wordmark; 
+  }
+}
+.scicon-go-gopher {
+  &:before {
+    content: $scicon-go-gopher; 
+  }
+}
+.scicon-go-lang {
+  &:before {
+    content: $scicon-go-lang; 
+  }
+}
+.scicon-google {
+  &:before {
+    content: $scicon-google; 
+  }
+}
+.scicon-google-text {
+  &:before {
+    content: $scicon-google-text; 
+  }
+}
+.scicon-html5 {
+  &:before {
+    content: $scicon-html5; 
+  }
+}
+.scicon-html5-wordmark {
+  &:before {
+    content: $scicon-html5-wordmark; 
+  }
+}
+.scicon-ibm {
+  &:before {
+    content: $scicon-ibm; 
+  }
+}
+.scicon-instagram {
+  &:before {
+    content: $scicon-instagram; 
+  }
+}
+.scicon-instagram-alt {
+  &:before {
+    content: $scicon-instagram-alt; 
+  }
+}
+.scicon-java {
+  &:before {
+    content: $scicon-java; 
+  }
+}
+.scicon-javascript {
+  &:before {
+    content: $scicon-javascript; 
+  }
+}
+.scicon-javascript-text {
+  &:before {
+    content: $scicon-javascript-text; 
+  }
+}
+.scicon-java-wordmark {
+  &:before {
+    content: $scicon-java-wordmark; 
+  }
+}
+.scicon-jquery {
+  &:before {
+    content: $scicon-jquery; 
+  }
+}
+.scicon-jquery-slogan {
+  &:before {
+    content: $scicon-jquery-slogan; 
+  }
+}
+.scicon-jquery-wordmark {
+  &:before {
+    content: $scicon-jquery-wordmark; 
+  }
+}
+.scicon-khan-academy {
+  &:before {
+    content: $scicon-khan-academy; 
+  }
+}
+.scicon-khan-academy-alt {
+  &:before {
+    content: $scicon-khan-academy-alt; 
+  }
+}
+.scicon-khan-academy-text {
+  &:before {
+    content: $scicon-khan-academy-text; 
+  }
+}
+.scicon-khan-academy-wordmark {
+  &:before {
+    content: $scicon-khan-academy-wordmark; 
+  }
+}
+.scicon-linkedin {
+  &:before {
+    content: $scicon-linkedin; 
+  }
+}
+.scicon-linkedin-wordmark {
+  &:before {
+    content: $scicon-linkedin-wordmark; 
+  }
+}
+.scicon-matlab {
+  &:before {
+    content: $scicon-matlab; 
+  }
+}
+.scicon-mercedes {
+  &:before {
+    content: $scicon-mercedes; 
+  }
+}
+.scicon-meta {
+  &:before {
+    content: $scicon-meta; 
+  }
+}
+.scicon-meta-wordmark {
+  &:before {
+    content: $scicon-meta-wordmark; 
+  }
+}
+.scicon-mongodb-leaf {
+  &:before {
+    content: $scicon-mongodb-leaf; 
+  }
+}
+.scicon-mongodb-wordmark {
+  &:before {
+    content: $scicon-mongodb-wordmark; 
+  }
+}
+.scicon-mysql {
+  &:before {
+    content: $scicon-mysql; 
+  }
+}
+.scicon-mysql-mark {
+  &:before {
+    content: $scicon-mysql-mark; 
+  }
+}
+.scicon-mysql-text {
+  &:before {
+    content: $scicon-mysql-text; 
+  }
+}
+.scicon-nasa {
+  &:before {
+    content: $scicon-nasa; 
+  }
+}
+.scicon-nasa-worm {
+  &:before {
+    content: $scicon-nasa-worm; 
+  }
+}
+.scicon-nature {
+  &:before {
+    content: $scicon-nature; 
+  }
+}
+.scicon-nature-text {
+  &:before {
+    content: $scicon-nature-text; 
+  }
+}
+.scicon-nodejs {
+  &:before {
+    content: $scicon-nodejs; 
+  }
+}
+.scicon-nodejs-js {
+  &:before {
+    content: $scicon-nodejs-js; 
+  }
+}
+.scicon-nodejs-wordmark {
+  &:before {
+    content: $scicon-nodejs-wordmark; 
+  }
+}
+.scicon-nsf {
+  &:before {
+    content: $scicon-nsf; 
+  }
+}
+.scicon-perl {
+  &:before {
+    content: $scicon-perl; 
+  }
+}
+.scicon-perl-camel {
+  &:before {
+    content: $scicon-perl-camel; 
+  }
+}
+.scicon-php {
+  &:before {
+    content: $scicon-php; 
+  }
+}
+.scicon-php-text {
+  &:before {
+    content: $scicon-php-text; 
+  }
+}
+.scicon-python {
+  &:before {
+    content: $scicon-python; 
+  }
+}
+.scicon-quora {
+  &:before {
+    content: $scicon-quora; 
+  }
+}
+.scicon-quora-alt {
+  &:before {
+    content: $scicon-quora-alt; 
+  }
+}
+.scicon-react {
+  &:before {
+    content: $scicon-react; 
+  }
+}
+.scicon-researchgate {
+  &:before {
+    content: $scicon-researchgate; 
+  }
+}
+.scicon-researchgate-alt {
+  &:before {
+    content: $scicon-researchgate-alt; 
+  }
+}
+.scicon-sass {
+  &:before {
+    content: $scicon-sass; 
+  }
+}
+.scicon-scihook {
+  &:before {
+    content: $scicon-scihook; 
+  }
+}
+.scicon-scihook-alt {
+  &:before {
+    content: $scicon-scihook-alt; 
+  }
+}
+.scicon-scihook-square {
+  &:before {
+    content: $scicon-scihook-square; 
+  }
+}
+.scicon-spacex {
+  &:before {
+    content: $scicon-spacex; 
+  }
+}
+.scicon-spacex-alt {
+  &:before {
+    content: $scicon-spacex-alt; 
+  }
+}
+.scicon-spotify {
+  &:before {
+    content: $scicon-spotify; 
+  }
+}
+.scicon-spotify-text {
+  &:before {
+    content: $scicon-spotify-text; 
+  }
+}
+.scicon-spotify-wordmark {
+  &:before {
+    content: $scicon-spotify-wordmark; 
+  }
+}
+.scicon-sqlite {
+  &:before {
+    content: $scicon-sqlite; 
+  }
+}
+.scicon-sqlite-wordmark {
+  &:before {
+    content: $scicon-sqlite-wordmark; 
+  }
+}
+.scicon-stackoverflow {
+  &:before {
+    content: $scicon-stackoverflow; 
+  }
+}
+.scicon-stackoverflow-text {
+  &:before {
+    content: $scicon-stackoverflow-text; 
+  }
+}
+.scicon-stackoverflow-wordmark {
+  &:before {
+    content: $scicon-stackoverflow-wordmark; 
+  }
+}
+.scicon-telegram {
+  &:before {
+    content: $scicon-telegram; 
+  }
+}
+.scicon-telegram-rounded {
+  &:before {
+    content: $scicon-telegram-rounded; 
+  }
+}
+.scicon-tesla-inc {
+  &:before {
+    content: $scicon-tesla-inc; 
+  }
+}
+.scicon-tesla-text {
+  &:before {
+    content: $scicon-tesla-text; 
+  }
+}
+.scicon-tesla-wordmark {
+  &:before {
+    content: $scicon-tesla-wordmark; 
+  }
+}
+.scicon-threads {
+  &:before {
+    content: $scicon-threads; 
+  }
+}
+.scicon-tua {
+  &:before {
+    content: $scicon-tua; 
+  }
+}
+.scicon-tua-wordmark {
+  &:before {
+    content: $scicon-tua-wordmark; 
+  }
+}
+.scicon-tubitak {
+  &:before {
+    content: $scicon-tubitak; 
+  }
+}
+.scicon-tubitak-wordmark {
+  &:before {
+    content: $scicon-tubitak-wordmark; 
+  }
+}
+.scicon-twitter {
+  &:before {
+    content: $scicon-twitter; 
+  }
+}
+.scicon-typescript {
+  &:before {
+    content: $scicon-typescript; 
+  }
+}
+.scicon-typescript-rounded {
+  &:before {
+    content: $scicon-typescript-rounded; 
+  }
+}
+.scicon-vuejs {
+  &:before {
+    content: $scicon-vuejs; 
+  }
+}
+.scicon-wikimedia {
+  &:before {
+    content: $scicon-wikimedia; 
+  }
+}
+.scicon-wikimedia-text {
+  &:before {
+    content: $scicon-wikimedia-text; 
+  }
+}
+.scicon-wikimedia-wordmark {
+  &:before {
+    content: $scicon-wikimedia-wordmark; 
+  }
+}
+.scicon-wikipedia {
+  &:before {
+    content: $scicon-wikipedia; 
+  }
+}
+.scicon-x-corp {
+  &:before {
+    content: $scicon-x-corp; 
+  }
+}
+.scicon-youtube {
+  &:before {
+    content: $scicon-youtube; 
+  }
+}
+.scicon-youtube-play {
+  &:before {
+    content: $scicon-youtube-play; 
+  }
+}
+.scicon-youtube-text {
+  &:before {
+    content: $scicon-youtube-text; 
+  }
+}
+.scicon-youtube-wordmark {
+  &:before {
+    content: $scicon-youtube-wordmark; 
+  }
+}
+.scicon-html51 {
+  &:before {
+    content: $scicon-html51; 
+  }
+}
+.scicon-html5-wordmark1 {
+  &:before {
+    content: $scicon-html5-wordmark1; 
+  }
+}
+

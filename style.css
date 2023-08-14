@@ -1,0 +1,363 @@
+@font-face {
+  font-family: 'Scicon-Brands';
+  src:  url('fonts/Scicon-Brands.eot?vmzbxb');
+  src:  url('fonts/Scicon-Brands.eot?vmzbxb#iefix') format('embedded-opentype'),
+    url('fonts/Scicon-Brands.ttf?vmzbxb') format('truetype'),
+    url('fonts/Scicon-Brands.woff?vmzbxb') format('woff'),
+    url('fonts/Scicon-Brands.svg?vmzbxb#Scicon-Brands') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Scicon-Brands' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.scicon-apple-inc:before {
+  content: "\e902";
+}
+.scicon-arduino:before {
+  content: "\e903";
+}
+.scicon-arduino-wordmark:before {
+  content: "\e904";
+}
+.scicon-c-lang:before {
+  content: "\e905";
+}
+.scicon-c-lang-alt:before {
+  content: "\e906";
+}
+.scicon-cpp-lang:before {
+  content: "\e907";
+}
+.scicon-c-sharp:before {
+  content: "\e908";
+}
+.scicon-css:before {
+  content: "\e909";
+}
+.scicon-css-wordmark:before {
+  content: "\e90a";
+}
+.scicon-discord:before {
+  content: "\e90b";
+}
+.scicon-discord-text:before {
+  content: "\e90c";
+}
+.scicon-discord-wordmark:before {
+  content: "\e90d";
+}
+.scicon-esa:before {
+  content: "\e90e";
+}
+.scicon-esa-text:before {
+  content: "\e90f";
+}
+.scicon-esa-wordmark:before {
+  content: "\e910";
+}
+.scicon-facebook:before {
+  content: "\e911";
+}
+.scicon-facebook-f:before {
+  content: "\e912";
+}
+.scicon-fortran:before {
+  content: "\e913";
+}
+.scicon-f-sharp:before {
+  content: "\e914";
+}
+.scicon-github:before {
+  content: "\e915";
+}
+.scicon-github-text:before {
+  content: "\e916";
+}
+.scicon-gitlab:before {
+  content: "\e917";
+}
+.scicon-gitlab-text:before {
+  content: "\e918";
+}
+.scicon-gitlab-wordmark:before {
+  content: "\e919";
+}
+.scicon-go-gopher:before {
+  content: "\e91a";
+}
+.scicon-go-lang:before {
+  content: "\e91b";
+}
+.scicon-google:before {
+  content: "\e91c";
+}
+.scicon-google-text:before {
+  content: "\e91d";
+}
+.scicon-html5:before {
+  content: "\e91e";
+}
+.scicon-html5-wordmark:before {
+  content: "\e91f";
+}
+.scicon-ibm:before {
+  content: "\e920";
+}
+.scicon-instagram:before {
+  content: "\e921";
+}
+.scicon-instagram-alt:before {
+  content: "\e922";
+}
+.scicon-java:before {
+  content: "\e923";
+}
+.scicon-javascript:before {
+  content: "\e924";
+}
+.scicon-javascript-text:before {
+  content: "\e925";
+}
+.scicon-java-wordmark:before {
+  content: "\e926";
+}
+.scicon-jquery:before {
+  content: "\e927";
+}
+.scicon-jquery-slogan:before {
+  content: "\e928";
+}
+.scicon-jquery-wordmark:before {
+  content: "\e929";
+}
+.scicon-khan-academy:before {
+  content: "\e92a";
+}
+.scicon-khan-academy-alt:before {
+  content: "\e92b";
+}
+.scicon-khan-academy-text:before {
+  content: "\e92c";
+}
+.scicon-khan-academy-wordmark:before {
+  content: "\e92d";
+}
+.scicon-linkedin:before {
+  content: "\e92e";
+}
+.scicon-linkedin-wordmark:before {
+  content: "\e92f";
+}
+.scicon-matlab:before {
+  content: "\e930";
+}
+.scicon-mercedes:before {
+  content: "\e931";
+}
+.scicon-meta:before {
+  content: "\e932";
+}
+.scicon-meta-wordmark:before {
+  content: "\e933";
+}
+.scicon-mongodb-leaf:before {
+  content: "\e934";
+}
+.scicon-mongodb-wordmark:before {
+  content: "\e935";
+}
+.scicon-mysql:before {
+  content: "\e936";
+}
+.scicon-mysql-mark:before {
+  content: "\e937";
+}
+.scicon-mysql-text:before {
+  content: "\e938";
+}
+.scicon-nasa:before {
+  content: "\e939";
+}
+.scicon-nasa-worm:before {
+  content: "\e93a";
+}
+.scicon-nature:before {
+  content: "\e93b";
+}
+.scicon-nature-text:before {
+  content: "\e93c";
+}
+.scicon-nodejs:before {
+  content: "\e93d";
+}
+.scicon-nodejs-js:before {
+  content: "\e93e";
+}
+.scicon-nodejs-wordmark:before {
+  content: "\e93f";
+}
+.scicon-nsf:before {
+  content: "\e940";
+}
+.scicon-perl:before {
+  content: "\e941";
+}
+.scicon-perl-camel:before {
+  content: "\e942";
+}
+.scicon-php:before {
+  content: "\e943";
+}
+.scicon-php-text:before {
+  content: "\e944";
+}
+.scicon-python:before {
+  content: "\e945";
+}
+.scicon-quora:before {
+  content: "\e946";
+}
+.scicon-quora-alt:before {
+  content: "\e947";
+}
+.scicon-react:before {
+  content: "\e948";
+}
+.scicon-researchgate:before {
+  content: "\e949";
+}
+.scicon-researchgate-alt:before {
+  content: "\e94a";
+}
+.scicon-sass:before {
+  content: "\e94b";
+}
+.scicon-scihook:before {
+  content: "\e94c";
+}
+.scicon-scihook-alt:before {
+  content: "\e94d";
+}
+.scicon-scihook-square:before {
+  content: "\e94e";
+}
+.scicon-spacex:before {
+  content: "\e94f";
+}
+.scicon-spacex-alt:before {
+  content: "\e950";
+}
+.scicon-spotify:before {
+  content: "\e951";
+}
+.scicon-spotify-text:before {
+  content: "\e952";
+}
+.scicon-spotify-wordmark:before {
+  content: "\e953";
+}
+.scicon-sqlite:before {
+  content: "\e954";
+}
+.scicon-sqlite-wordmark:before {
+  content: "\e955";
+}
+.scicon-stackoverflow:before {
+  content: "\e956";
+}
+.scicon-stackoverflow-text:before {
+  content: "\e957";
+}
+.scicon-stackoverflow-wordmark:before {
+  content: "\e958";
+}
+.scicon-telegram:before {
+  content: "\e959";
+}
+.scicon-telegram-rounded:before {
+  content: "\e95a";
+}
+.scicon-tesla-inc:before {
+  content: "\e95b";
+}
+.scicon-tesla-text:before {
+  content: "\e95c";
+}
+.scicon-tesla-wordmark:before {
+  content: "\e95d";
+}
+.scicon-threads:before {
+  content: "\e95e";
+}
+.scicon-tua:before {
+  content: "\e95f";
+}
+.scicon-tua-wordmark:before {
+  content: "\e960";
+}
+.scicon-tubitak:before {
+  content: "\e961";
+}
+.scicon-tubitak-wordmark:before {
+  content: "\e962";
+}
+.scicon-twitter:before {
+  content: "\e963";
+}
+.scicon-typescript:before {
+  content: "\e964";
+}
+.scicon-typescript-rounded:before {
+  content: "\e965";
+}
+.scicon-vuejs:before {
+  content: "\e966";
+}
+.scicon-wikimedia:before {
+  content: "\e967";
+}
+.scicon-wikimedia-text:before {
+  content: "\e968";
+}
+.scicon-wikimedia-wordmark:before {
+  content: "\e969";
+}
+.scicon-wikipedia:before {
+  content: "\e96a";
+}
+.scicon-x-corp:before {
+  content: "\e96b";
+}
+.scicon-youtube:before {
+  content: "\e96c";
+}
+.scicon-youtube-play:before {
+  content: "\e96d";
+}
+.scicon-youtube-text:before {
+  content: "\e96e";
+}
+.scicon-youtube-wordmark:before {
+  content: "\e96f";
+}
+.scicon-html51:before {
+  content: "\e900";
+}
+.scicon-html5-wordmark1:before {
+  content: "\e901";
+}
