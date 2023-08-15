@@ -1,6 +1,6 @@
 This informative text aims to provide brief information about the package. Therefore, it is written in a very short and detailed way. However, a developer who reads this information will be able to start using the package easily. Please [visit](https://github.com/Sci-Hook/scicon/wiki) the official Scicon documentation for more detailed information.
 
-# General Information ![Number of Icons in the Pack](https://img.shields.io/badge/Number%20of%20Icons%20in%20the%20Pack-112-blue?style=flat)
+# General Information ![Number of Icons in the Pack](https://img.shields.io/badge/Number%20of%20Icons%20in%20the%20Pack-225-blue?style=flat)
 
 Using the Scicon Brands Pack, you can include logos of brands, logos of tools, icons of software languages, symbols of institutions and organizations as icons in your projects. Icons are a good choice to make your projects better from a design and visual point of view. The Scicon Icon Pack is an icon pack that receives regular additions and updates. Scicon Brands Pack is a separate category within the Scicon Pack. You can either download the whole pack directly or install the icon categories in the pack separately. You can switch to the main pack at any time and you do not need to make any other changes.
 
@@ -30,7 +30,7 @@ Then you can add it to your SCSS file as follows:
 
 `@import 'node_modules/scicon-brands';`
 
-# Dokümantasyon ve Yardım
+# Documentation and Help
 
 More detailed documentation is available for the Scicon Pack. Please check the GitHub wiki page for the Scicon Pack to get detailed information about the installation, track changes and get answers to your questions. If you cannot find answers on the wiki page, you can ask them as an issue via GitHub. Sci-Hook Scion Development Team will help you.
 
@@ -38,7 +38,7 @@ More detailed documentation is available for the Scicon Pack. Please check the G
 
 [Scicon Github Issues Page](https://github.com/Sci-Hook/scicon/issues)
 
-# Sürümlendirme ![Stable Version](https://img.shields.io/badge/Stable%20Version-1.0.5-orange?style=flat) ![Latest Version](https://img.shields.io/badge/Latest%20Version-1.0.5-orange?style=flat)
+# Versioning ![Stable Version](https://img.shields.io/badge/Stable%20Version-1.113.0-orange?style=flat) ![Latest Version](https://img.shields.io/badge/Latest%20Version-1.113.0-orange?style=flat)
 
 When versioning the Scicon Brands Pack, we combine Semantic Versioning with our own versioning system. Here's how we version the icons:
 

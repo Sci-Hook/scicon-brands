@@ -10,7 +10,7 @@
   font-display: block;
 }
 
-i {
+.scicon {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'Scicon-Brands' !important;
   speak: never;
@@ -25,6 +25,345 @@ i {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.scicon-acrobat:before {
+  content: "\e970";
+}
+.scicon-adobe:before {
+  content: "\e971";
+}
+.scicon-adobe-animate:before {
+  content: "\e972";
+}
+.scicon-adobe-fuse:before {
+  content: "\e973";
+}
+.scicon-adobe-wordmark:before {
+  content: "\e974";
+}
+.scicon-after-effects:before {
+  content: "\e975";
+}
+.scicon-amazon:before {
+  content: "\e976";
+}
+.scicon-amazon-a:before {
+  content: "\e977";
+}
+.scicon-apache:before {
+  content: "\e978";
+}
+.scicon-apache-wordmark:before {
+  content: "\e979";
+}
+.scicon-appstore:before {
+  content: "\e97a";
+}
+.scicon-bing:before {
+  content: "\e97b";
+}
+.scicon-bootstrap:before {
+  content: "\e97c";
+}
+.scicon-brave:before {
+  content: "\e97d";
+}
+.scicon-brave-text:before {
+  content: "\e97e";
+}
+.scicon-brave-wordmark:before {
+  content: "\e97f";
+}
+.scicon-chrome:before {
+  content: "\e980";
+}
+.scicon-cloudflare:before {
+  content: "\e981";
+}
+.scicon-cloudflare-wordmark:before {
+  content: "\e982";
+}
+.scicon-codepen:before {
+  content: "\e983";
+}
+.scicon-cpanel:before {
+  content: "\e984";
+}
+.scicon-creative-cloud:before {
+  content: "\e985";
+}
+.scicon-docker:before {
+  content: "\e986";
+}
+.scicon-docker-wordmark:before {
+  content: "\e987";
+}
+.scicon-dreamweaver:before {
+  content: "\e988";
+}
+.scicon-dribbble:before {
+  content: "\e989";
+}
+.scicon-edge:before {
+  content: "\e98a";
+}
+.scicon-edge-alt:before {
+  content: "\e98b";
+}
+.scicon-edge-old:before {
+  content: "\e98c";
+}
+.scicon-firefox:before {
+  content: "\e98d";
+}
+.scicon-flickr:before {
+  content: "\e98e";
+}
+.scicon-flickr-wordmark:before {
+  content: "\e98f";
+}
+.scicon-gmail:before {
+  content: "\e990";
+}
+.scicon-guilded:before {
+  content: "\e991";
+}
+.scicon-guilded-wordmark:before {
+  content: "\e992";
+}
+.scicon-illustrator:before {
+  content: "\e993";
+}
+.scicon-incopy:before {
+  content: "\e994";
+}
+.scicon-indesign:before {
+  content: "\e995";
+}
+.scicon-jsdelivr:before {
+  content: "\e996";
+}
+.scicon-jsdelivr-text:before {
+  content: "\e997";
+}
+.scicon-jsdelivr-wordmark:before {
+  content: "\e998";
+}
+.scicon-kickstarter:before {
+  content: "\e999";
+}
+.scicon-kickstarter-wordmark:before {
+  content: "\e99a";
+}
+.scicon-lightroom:before {
+  content: "\e99b";
+}
+.scicon-lightroom-classic:before {
+  content: "\e99c";
+}
+.scicon-markdown:before {
+  content: "\e99d";
+}
+.scicon-markdown-alt:before {
+  content: "\e99e";
+}
+.scicon-mastodon:before {
+  content: "\e99f";
+}
+.scicon-maxcdn:before {
+  content: "\e9a0";
+}
+.scicon-medium:before {
+  content: "\e9a1";
+}
+.scicon-medium-text:before {
+  content: "\e9a2";
+}
+.scicon-medium-wordmark:before {
+  content: "\e9a3";
+}
+.scicon-messenger:before {
+  content: "\e9a4";
+}
+.scicon-messenger-alt:before {
+  content: "\e9a5";
+}
+.scicon-microsoft:before {
+  content: "\e9a6";
+}
+.scicon-microsoft-text:before {
+  content: "\e9a7";
+}
+.scicon-microsoft-wordmark:before {
+  content: "\e9a8";
+}
+.scicon-mozilla:before {
+  content: "\e9a9";
+}
+.scicon-npm:before {
+  content: "\e9aa";
+}
+.scicon-npm-alt:before {
+  content: "\e9ab";
+}
+.scicon-npm-text:before {
+  content: "\e9ac";
+}
+.scicon-openai:before {
+  content: "\e9ad";
+}
+.scicon-openai-text:before {
+  content: "\e9ae";
+}
+.scicon-openai-wordmark:before {
+  content: "\e9af";
+}
+.scicon-orcid:before {
+  content: "\e9b0";
+}
+.scicon-patreon:before {
+  content: "\e9b1";
+}
+.scicon-patreon-text:before {
+  content: "\e9b2";
+}
+.scicon-photoshop:before {
+  content: "\e9b3";
+}
+.scicon-pinterest:before {
+  content: "\e9b4";
+}
+.scicon-pinterest-alt:before {
+  content: "\e9b5";
+}
+.scicon-pinterest-text:before {
+  content: "\e9b6";
+}
+.scicon-pinterest-wordmark:before {
+  content: "\e9b7";
+}
+.scicon-playstore:before {
+  content: "\e9b8";
+}
+.scicon-prelude:before {
+  content: "\e9b9";
+}
+.scicon-premiere-pro:before {
+  content: "\e9ba";
+}
+.scicon-reddit:before {
+  content: "\e9bb";
+}
+.scicon-reddit-alt:before {
+  content: "\e9bc";
+}
+.scicon-reddit-text:before {
+  content: "\e9bd";
+}
+.scicon-reddit-wordmark:before {
+  content: "\e9be";
+}
+.scicon-skype:before {
+  content: "\e9bf";
+}
+.scicon-slack:before {
+  content: "\e9c0";
+}
+.scicon-slack-wordmark:before {
+  content: "\e9c1";
+}
+.scicon-steam:before {
+  content: "\e9c2";
+}
+.scicon-stripe:before {
+  content: "\e9c3";
+}
+.scicon-stripe-s:before {
+  content: "\e9c4";
+}
+.scicon-swift:before {
+  content: "\e9c5";
+}
+.scicon-tiktok:before {
+  content: "\e9c6";
+}
+.scicon-tiktok-text:before {
+  content: "\e9c7";
+}
+.scicon-topaz-labs:before {
+  content: "\e9c8";
+}
+.scicon-topaz-labs-wordmark:before {
+  content: "\e9c9";
+}
+.scicon-tumblr:before {
+  content: "\e9ca";
+}
+.scicon-tumblr-text:before {
+  content: "\e9cb";
+}
+.scicon-twitch:before {
+  content: "\e9cc";
+}
+.scicon-unity:before {
+  content: "\e9cd";
+}
+.scicon-unity-wordmark:before {
+  content: "\e9ce";
+}
+.scicon-ups:before {
+  content: "\e9cf";
+}
+.scicon-vimeo:before {
+  content: "\e9d0";
+}
+.scicon-vimeo-text:before {
+  content: "\e9d1";
+}
+.scicon-visual-studio:before {
+  content: "\e9d2";
+}
+.scicon-visual-studio-code:before {
+  content: "\e9d3";
+}
+.scicon-vsc-insiders:before {
+  content: "\e9d4";
+}
+.scicon-whatsapp:before {
+  content: "\e9d5";
+}
+.scicon-yahoo:before {
+  content: "\e9d6";
+}
+.scicon-yahoo-wordmark:before {
+  content: "\e9d7";
+}
+.scicon-yandex:before {
+  content: "\e9d8";
+}
+.scicon-yandex-ru:before {
+  content: "\e9d9";
+}
+.scicon-yandex-ru-wordmark:before {
+  content: "\e9da";
+}
+.scicon-yandex-wordmark:before {
+  content: "\e9db";
+}
+.scicon-zendesk:before {
+  content: "\e9dc";
+}
+.scicon-zendesk-wordmark:before {
+  content: "\e9dd";
+}
+.scicon-zotero:before {
+  content: "\e9de";
+}
+.scicon-zoterobib:before {
+  content: "\e9df";
+}
+.scicon-zotero-wordmark:before {
+  content: "\e9e0";
+}
 .scicon-apple-inc:before {
   content: "\e902";
 }
