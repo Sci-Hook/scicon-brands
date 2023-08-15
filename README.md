@@ -38,7 +38,7 @@ More detailed documentation is available for the Scicon Pack. Please check the G
 
 [Scicon Github Issues Page](https://github.com/Sci-Hook/scicon/issues)
 
-# Versioning ![Stable Version](https://img.shields.io/badge/Stable%20Version-1.113.0-orange?style=flat) ![Latest Version](https://img.shields.io/badge/Latest%20Version-1.113.0-orange?style=flat)
+# Versioning ![Stable Version](https://img.shields.io/badge/Stable%20Version-1.113.1-orange?style=flat) ![Latest Version](https://img.shields.io/badge/Latest%20Version-1.113.1-orange?style=flat)
 
 When versioning the Scicon Brands Pack, we combine Semantic Versioning with our own versioning system. Here's how we version the icons:
 
@@ -58,7 +58,7 @@ You can use GitHub's issues section to request new icons, report bugs, offer sug
 
 # Contributors
 
-The design and software works of the icons in the package are carried out by [Çınar Civan](https://github.com/cinarcivan). Software technical works are carried out by [Emirhan Gerçeker] (https://github.com/lim10tech).
+The design and software works of the icons in the package are carried out by [Çınar Civan](https://github.com/cinarcivan). Software technical works are carried out by [Emirhan Gerçeker](https://github.com/lim10tech).
 
 # License
 
