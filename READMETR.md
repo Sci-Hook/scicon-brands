@@ -42,6 +42,8 @@ Scicon Paketi için daha detaylı dokümantasyon mevcuttur. Kurulum hakkında de
 
 Yeni ikon talebinde bulunmak, hataları raporlamak, önerilerinizi sunmak ve paketin gelişmesine katkı sağlamak için GitHub'un issues bölümünü kullanabilirsiniz. Issues bölümü sizi yapmanız gerekenler konusunda yönlendirecektir. Paketin gelişmesine katkı sağlamak istediğiniz için teşekkür ederiz.
 
+[Scicon Github Issues Sayfası](https://github.com/Sci-Hook/scicon/issues)
+
 # Katkı Sağlayanlar
 
 Paketteki ikonların tasarımı ve yazılımsal işleri [Çınar Civan](https://github.com/cinarcivan) tarafından yapılmaktadır. Yazılımsal teknik işler ise [Emirhan Gerçeker](https://github.com/lim10tech) tarafından sürdürülmektedir.
