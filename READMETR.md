@@ -38,6 +38,16 @@ Scicon Paketi için daha detaylı dokümantasyon mevcuttur. Kurulum hakkında de
 
 # Sürümlendirme ![Stabil Sürüm](https://img.shields.io/badge/Stabil%20S%C3%BCr%C3%BCm-1.0.3-orange?style=flat) ![Son Sürüm](https://img.shields.io/badge/Son%20S%C3%BCr%C3%BCm-1.0.3-orange?style=flat)
 
+Scicon Brands Paketi'ni sürümlendirirken Semantic Sürümlendirmesi ile kendi sürümlendirme sistemimizi birleştirip kullanıyoruz. İkonları şu şekilde sürümlendiriyoruz:
+
+`<ana-sürüm (major)>.<ikon.güncellemesi (minor)>.<yama (patch)>`
+
+Ana sürüm, paketin üst sürümüdür ve büyük çaplı değişiklikleri kapsamaktadır. Bu büyük çaplı değişiklikler, yazılımsal değişiklikler ve yeni ikon stilleri gibi önemli güncellemeleri kapsamaktadır. Scicon Paketi'nin ana sürümünü daima güncel tutmanızı öneririz.
+
+İkon güncellemesi; yeni eklenen, güncellenen ve çıkarılan ikonları kapsamaktadır. Her bir ikon değişikliği için sürüm bir kere artırılır. Örneğin; sürümü 2.0.1 olan paketin yeni sürümünde 5 yeni ikon eklendiyse 3 ikon çıkarıldıysa yeni sürüm, 2.8.1 olacaktır.
+
+Yamalar; yazılımsal hata düzeltmelerini, yazım hatalarını ve küçük çaplı ikon düzeltmelerini kapsamaktadır. Yamalar, önemli değişiklikleri kapsamamaktadır. Ancak yine de paketin en son sürümünün kullanılması paketten en iyi verimin alınması için önemlidir.
+
 # İkon Talebi, Hata Raporlama, Öneriler ve Katkı Sağlama
 
 Yeni ikon talebinde bulunmak, hataları raporlamak, önerilerinizi sunmak ve paketin gelişmesine katkı sağlamak için GitHub'un issues bölümünü kullanabilirsiniz. Issues bölümü sizi yapmanız gerekenler konusunda yönlendirecektir. Paketin gelişmesine katkı sağlamak istediğiniz için teşekkür ederiz.
