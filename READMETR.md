@@ -1,6 +1,6 @@
 Bu bilgilendirme yazısı, paket hakkında özet bilgi vermeyi hedeflemektedir. Dolayısıyla oldukça kısa ve detaysız bir şekilde yazılmıştır. Ancak bu bilgilendirme yazısını okuyan bir geliştirici paketi rahatlıkla kullanmaya başlayabilecektir. Lütfen daha detaylı bilgilendirme için resmî Scicon dokümanlarını [ziyaret ediniz](https://github.com/Sci-Hook/scicon/wiki).
 
-# Genel Bilgilendirme ![Paketteki İkon Sayısı](https://img.shields.io/badge/Paketteki%20%C4%B0kon%20Say%C4%B1s%C4%B1-225-blue?style=flat)
+# Genel Bilgilendirme ![Paketteki İkon Sayısı](https://img.shields.io/badge/Paketteki%20%C4%B0kon%20Say%C4%B1s%C4%B1-223-blue?style=flat)
 
 Scicon Brands Paketi'ni kullanarak projelerinize; markaların logolarını, araçların logolarını, yazılım dillerinin simgelerini, kurum ve kuruluşların sembollerini ikon olarak dahil edebilirsiniz. Projelerinizi tasarımsal ve görsel açıdan daha iyi hale getirmek için ikonlar oldukça iyi bir seçimdir. Scicon ikon paketi, düzenli olarak ekleme ve güncelleme alan bir ikon paketidir. Scicon Brands Paketi ise Scicon Paketi'nin içerisinde ayrı bir kategoridir. Dilerseniz doğrudan bütün paketi indirebilir dilerseniz de paketin içindeki ikon kategorilerini ayrı ayrı kurabilirsiniz. İstediğiniz zaman ana pakete geçebilirsiniz ve bu geçişlerde herhangi bir başka değişiklik yapmanız gerekmez.
 
@@ -38,7 +38,7 @@ Scicon Paketi için daha detaylı dokümantasyon mevcuttur. Kurulum hakkında de
 
 [Scicon Github Issues Sayfası](https://github.com/Sci-Hook/scicon/issues)
 
-# Sürümlendirme ![Stabil Sürüm](https://img.shields.io/badge/Stabil%20S%C3%BCr%C3%BCm-1.113.1-orange?style=flat) ![Son Sürüm](https://img.shields.io/badge/Son%20S%C3%BCr%C3%BCm-1.113.1-orange?style=flat)
+# Sürümlendirme ![Stabil Sürüm](https://img.shields.io/badge/Stabil%20S%C3%BCr%C3%BCm-1.113.2-orange?style=flat) ![Son Sürüm](https://img.shields.io/badge/Son%20S%C3%BCr%C3%BCm-1.113.2-orange?style=flat)
 
 Scicon Brands Paketi'ni sürümlendirirken Semantic Sürümlendirmesi ile kendi sürümlendirme sistemimizi birleştirip kullanıyoruz. İkonları şu şekilde sürümlendiriyoruz:
 
