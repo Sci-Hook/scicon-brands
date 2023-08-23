@@ -1,6 +1,6 @@
 {
   "name": "scicon-brands",
-  "version": "2.1.0-beta.1",
+  "version": "2.2.0-beta.1",
   "description": "CSS Brands Icon Pack by the Sci-Hook Organization",
   "keywords": [
     "scihook",
@@ -9,11 +9,14 @@
     "icon-pack",
     "web",
     "font",
-    "css-icons"
+    "css-icons",
+    "brand-icons"
   ],
   "author": "Çınar Civan",
   "license": "MIT",
   "publisher": "Sci-Hook Organization",
   "homepage": "https://scicon.scihook.org",
-  "repository": {"url": "https://github.com/Sci-Hook/scicon-brands"}
+  "repository": {"url": "https://github.com/Sci-Hook/scicon-brands"},
+  "files": ["fonts", "ie7", "index.scss", "LICENSE", "package.json", "style.css", "README.md", "variables.scss"],
+  "bugs": {"url": "https://github.com/Sci-Hook/scicon/issues/new/choose", "email": "opensource@scihook.org"}
 }
